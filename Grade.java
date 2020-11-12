@@ -1,4 +1,4 @@
-// This class is the Grade class
+// This is the Grade class
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
